@@ -1,0 +1,25 @@
+_repo: Een-Meisje-Student-over-Een-Meisje-Studentje-_27847
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Sillevis, Annie
+    birthdate: 1880
+    gutenberg_agent_id: '32957'
+    url: http://www.gutenberg.org/2009/agents/32957
+description: ''
+gutenberg_issued: '2009-01-20'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '27847'
+language: nl
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'LC'
+- !lcsh 'Salomons, Anna Maria Francisca, 1885-1980'
+title: Een Meisje-Student over 'Een Meisje-Studentje'
+url: http://www.gutenberg.org/ebooks/27847
